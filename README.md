@@ -10,6 +10,6 @@ React.js, HTML, CSS, JavaScript, firebase
 
 ## Snapshots
 
-![Home page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-06-02%20at%205.46.23%20PM.png?raw=true)
-![cart page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-06-02%20at%205.48.52%20PM.png?raw=true)
-![order page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-06-02%20at%205.49.19%20PM.png?raw=true)
+![Home page](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202021-06-02%20at%205.46.23%20PM.png?raw=true)
+![cart page](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202021-06-02%20at%205.48.52%20PM.png?raw=true)
+![order page](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202021-06-02%20at%205.49.19%20PM.png?raw=true)
